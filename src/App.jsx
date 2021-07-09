@@ -21,13 +21,18 @@ function App() {
 
         <h1>
 
-          <Countdown date='2021-07-09T20:00:00'>
+          <Countdown date='Jul 9 2021 19:00:00 GMT+0100'>
             <Completionist />
           </Countdown>
 
 
 
+
+
         </h1>
+
+
+
 
       </span>
 
