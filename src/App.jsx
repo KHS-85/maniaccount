@@ -14,12 +14,12 @@ function App() {
 
       <img src={ManiacDino} alt="" />
 
-      <h1>Get ready for season 8!</h1> <br /><br />
+      <h1 className="ready">Get ready for season 8!</h1> <br />
 
       <span id="redtext">
         <h2>Servers will open in:</h2>
 
-        <h1>
+        <h1 className="counter">
 
           <Countdown date='Aug 13 2021 19:00:00 GMT+0100'>
             <Completionist />
